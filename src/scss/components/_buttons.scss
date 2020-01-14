@@ -1,0 +1,71 @@
+.key {
+  width: 40px;
+  height: 40px;
+  margin-left: 6px;
+  font-weight: 500;
+  font-size: 1.2rem;
+  line-height: 40px;
+  font-family: $font-3;
+  text-align: center;
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+  cursor: pointer;
+  transition: border-radius 0.3s,background 0.2s;
+  &:active {
+    background: orange;
+    border-radius: 50px;
+  }
+}
+
+.Backspace,
+.CapsLock {
+  width: 100px ;
+}
+.Shift {
+  width: 84px ;
+}
+.Tab {
+  width: 54px;
+}
+.Del {
+  width: 44px ;
+}
+.Enter {
+  width: 86px ;
+}
+.ShiftRight {
+  width: 100px ;
+}
+.ShiftLeft {
+  width: 89px;
+}
+.Space {
+  width: 304px;
+}
+.ControlLeft,
+.ControlRight {
+  width: 55px;
+}
+.MetaLeft,
+.Backspace,
+.CapsLock,
+.ShiftLeft,
+.Tab,
+.Delete,
+.Enter,
+.ShiftRight,
+.Space,
+.ControlLeft,
+.ControlRight,
+.ArrowRight,
+.ArrowDown,
+.ArrowLeft,
+.ArrowUp,
+.Win,
+.AltLeft,
+.AltRight {
+  background-color: #3d8a7a ;
+}
+
+
