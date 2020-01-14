@@ -1,5 +1,7 @@
 ### Virtual-Keyboard application
 
+[https://anastasya1701.github.io/Virtual-Keyboard](https://anastasya1701.github.io/Virtual-Keyboard)
+
 ### Technical implementation:
 
 #### 1. Implemented both keyboard and mouse input.
